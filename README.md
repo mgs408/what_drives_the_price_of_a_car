@@ -1,8 +1,8 @@
 What Drives the Price of a Car?
 
-Author: Marcio G. Siqueira  
-Dataset: vehicles.csv 
-Framework: CRISP-DM
+- Author: Marcio G. Siqueira  
+- Dataset: vehicles.csv  
+- Framework: CRISP-DM
 
 Project Overview
 
